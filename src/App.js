@@ -5,10 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div>
-        <h1>This is the dev branch</h1>
-        <h2>I fixed the header 😊</h2>
-      </div>
+      <h1>This is the conflict1 branch</h1>
     );
   }
 }
